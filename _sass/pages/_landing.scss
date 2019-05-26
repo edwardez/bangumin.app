@@ -1,0 +1,27 @@
+@import "bootstrap/variables";
+
+
+.landing-page-body{
+  height: 90vh;
+}
+
+#landing-img{
+  max-height: 80vh;
+}
+
+@media only screen and (max-width: map-get($grid-breakpoints, 'md')) {
+  #landing-img{
+    max-height: 50vh;
+  }
+}
+
+.badge{
+  width:200px;
+}
+
+
+footer{
+  height: 10vh;
+}
+
+

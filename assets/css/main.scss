@@ -1,0 +1,31 @@
+---
+---
+
+// Core
+
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/reboot";
+
+// Material
+@import "@material/typography/mdc-typography";
+
+// Add-on
+@import "bootstrap/grid";
+@import "bootstrap/images";
+@import "bootstrap/utilities/spacing";
+@import "bootstrap/utilities/display";
+@import "bootstrap/utilities/flex";
+@import "bootstrap/utilities/sizing";
+
+@import "utils/typography";
+@import "utils/anchor";
+
+/// Website css
+@import "pages/header";
+@import "pages/footer";
+
+.landing-page{
+  @import "pages/landing";
+}

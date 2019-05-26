@@ -1,0 +1,22 @@
+{
+  "name": "bangumin.app",
+  "version": "1.0.0",
+  "description": "Website for BangumiN app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardez/bangumin.app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwardez/bangumin.app/issues"
+  },
+  "homepage": "https://github.com/edwardez/bangumin.app#readme",
+  "dependencies": {
+    "material-components-web": "^2.2.0"
+  }
+}
