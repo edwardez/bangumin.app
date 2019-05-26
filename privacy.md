@@ -21,8 +21,8 @@ used to improve our services and we won't share any personally identifying infor
 with third-parties, except when required to by law.
 
 In order to interact with your data, our service maintains Bangumi authentication (OAuth) tokens and 
-Bangumi cookies that allow our app to act "on your behalf" to read and write data. By logging into 
-BangumiN, you authorize us to use these tokens and cookies. These tokens are securely stored and won't
+Bangumi cookies that allow our app to act "on your behalf" to read and write data. By logging in 
+, you authorize us to use these tokens and cookies. These tokens are securely stored and won't
 be transferred to our server.
 
 Our app may link to external sites that are not operated by us. Please be aware that we have no

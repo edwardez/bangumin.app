@@ -30,7 +30,7 @@ title: Terms of Service
 
 3. Disclaimer
 
-   The materials within BangumiN are provided on an 'as is' basis. We make no
+   The materials within BangumiN are provided on an "as is" basis. We make no
    warranties, expressed or implied, and hereby disclaims and negates all other warranties including,
    without limitation, implied warranties or conditions of merchantability, fitness for a particular
    purpose, or non-infringement of intellectual property or other violation of rights.
