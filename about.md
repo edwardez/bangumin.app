@@ -7,7 +7,7 @@ title: About
 BanguminN（读作Bangu-min或Bangumi-N）是一个第三方的Bangumi客户端。
 BanguminN的开发代码[开源](https://github.com/edwardez/BangumiN/app)，基于MIT授权发布，欢迎做出贡献。
 
-本网站([bangumin.app](https://bangumin.app))介绍的是以功能完备为目的开发的原生应用BanguminN，除此之外，
+本网站([bangumin.app](https://bangumin.app))介绍的是以功能丰富为目的开发的原生应用BanguminN，除此之外，
 我们还提供有一个以补充官方网页版缺失功能为目的进行开发，专注数据可视化和剧透分享的web版客户端，欢迎访问[bangumin.tv](https://bangumin.tv)了解详情。
 
 ## 开发团队
