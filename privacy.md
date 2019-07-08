@@ -26,11 +26,6 @@ You are free to refuse our request for Firebase Analytics and Firebase Crashlyti
 in the app, or by stopping using the app, with the understanding that we may be unable to provide you with some of your 
 desired services.
 
-In order to interact with your data, our service maintains Bangumi authentication (OAuth) tokens and 
-Bangumi cookies that allow our app to act "on your behalf" to read and write data. By logging in 
-, you authorize us to use these tokens and cookies. These tokens are securely stored and won't
-be transferred to our server.
-
 Our app may link to external sites that are not operated by us. Please be aware that we have no
 control over the content and practices of these sites, and cannot accept responsibility or
 liability for their respective privacy policies.

@@ -27,8 +27,16 @@ title: Terms of Service
    terminated by us at any time. Upon terminating your viewing of these materials or
    upon the termination of this license, you must destroy any downloaded materials in your possession
    whether in electronic or printed format.
+   
+3. Authentication
+   In order to interact with your data, our service maintains Bangumi authentication (OAuth) tokens and 
+   Bangumi cookies that allow our app to act "on your behalf" to read and write data. By logging in 
+   , you authorize us to use these tokens and cookies. These tokens are securely stored and won't
+   be transferred to our server. 
+   You need to provide your email address and password on Bangumi in order to log in. Your email address and password 
+   are solely used to authenticate "on your behalf" and cannot be seen by us.
 
-3. Disclaimer
+4. Disclaimer
 
    The materials within BangumiN are provided on an "as is" basis. We make no
    warranties, expressed or implied, and hereby disclaims and negates all other warranties including,
@@ -42,7 +50,7 @@ title: Terms of Service
    Contents in BangumiN may come from Bangumi(https://bgm.tv/about/copyright), we 
    are not aware of contents on Bangumi, and related copyright issues should be redirected to Bangumi.
 
-4. Limitations
+5. Limitations
 
    In no event shall us or its suppliers be liable for any damages (including,
    without limitation, damages for loss of data or profit, or due to business interruption) arising
@@ -52,7 +60,7 @@ title: Terms of Service
    Because some jurisdictions do not allow limitations on implied warranties, or limitations of
    liability for consequential or incidental damages, these limitations may not apply to you.
 
-5. Accuracy of materials
+6. Accuracy of materials
 
    The materials appearing in BangumiN could include technical, typographical, or photographic errors.
    We do not warrant that any of the materials on BangumiN are accurate, complete
@@ -60,18 +68,18 @@ title: Terms of Service
    time without notice. However we do not make any commitment to update the
    materials.
 
-6. Links
+7. Links
 
    We has not reviewed all of the sites linked to its app and is not responsible for
    the contents of any such linked site. The inclusion of any link does not imply endorsement by 
    us. Use of any such linked website is at the user's own risk.
 
-7. Modifications
+8. Modifications
 
    We may revise these terms of service for its app at any time without notice. By
    using BangumiN you are agreeing to be bound by the then current version of these terms of service.
 
-8. Governing Law
+9. Governing Law
 
    These terms and conditions are governed by and construed in accordance with the laws of California
    and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
